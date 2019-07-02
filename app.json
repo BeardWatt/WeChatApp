@@ -14,10 +14,28 @@
   "tabBar": {
     "list": [
       {
-        "pagePath": "pages/index/index"
+        "pagePath": "pages/index/index",
+        "text": "跑腿",
+        "iconPath": "img/run0.png",
+        "selectedIconPath": "img/run1.png"
       },
       {
-        "pagePath": "pages/logs/logs"
+        "pagePath": "pages/index/index",
+        "text": "失物",
+        "iconPath": "img/lost0.png",
+        "selectedIconPath": "img/lost1.png"
+      },
+      {
+        "pagePath": "pages/index/index",
+        "text": "学习",
+        "iconPath": "img/learn0.png",
+        "selectedIconPath": "img/learn1.png"
+      },
+      {
+        "pagePath": "pages/index/index",
+        "text": "二手",
+        "iconPath": "img/2rd0.png",
+        "selectedIconPath": "img/2rd1.png"
       }
     ],
     "position": "bottom"
